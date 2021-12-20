@@ -1,4 +1,4 @@
-**I removed all projects from this repository according to EdX Honor Code Pledge.** 
+**I removed all projects from this repository due to EdX Honor Code Pledge.** 
 
 # Machine-Learning-MITx
 Machine learning from linear models to deep learning by MITx
